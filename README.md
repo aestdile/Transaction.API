@@ -19,7 +19,7 @@ This project is designed to manage bank accounts and their transactions. It supp
 
 ## 📁 Project Structure
 
-<pre><code>##
+<pre><code>
   ``` 
   Transaction.API/ │ 
   ├── Transaction.API/ # Main Web API - Controllers, Auth 
