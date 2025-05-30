@@ -27,3 +27,47 @@ Transaction.API/
 ├── Transaction.API.sln # Visual Studio solution file
 ├── README.md # Project documentation
 └── LICENSE.txt # MIT License
+
+
+---
+
+## ✅ Main Features
+
+- [x] User Registration  
+- [x] User Login with JWT Token  
+- [x] Create Bank Accounts  
+- [x] View Account List  
+- [x] Transfer Funds Between Accounts  
+- [x] Unit Testing with XUnit  
+
+---
+
+## 🔐 Authentication
+
+The API uses **JWT (JSON Web Token)** based authentication. After logging in, users receive a token that must be included in the header of subsequent API requests.
+
+---
+
+## 🧪 Unit Testing
+
+Unit tests are written using **XUnit** and located in the `Transaction.API.Unit.Tests` folder.
+
+---
+
+## 🗃️ Database
+
+- The project uses **Entity Framework Core**.
+- SQL Server is used as the database.
+- Main entities:  
+  - `Customer`  
+  - `BankAccount`  
+  - `BankTransaction`  
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/aestdile/Transaction.API.git
