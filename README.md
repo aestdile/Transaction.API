@@ -19,3 +19,11 @@ This project is designed to manage bank accounts and their transactions. It supp
 
 ## 📁 Project Structure
 
+Transaction.API/
+│
+├── Transaction.API/ # Main Web API - Controllers, Auth
+├── Transaction.API.DataAccess/ # EF Core Context, Entities, Interfaces, Repositories
+├── Transaction.API.Unit.Tests/ # Unit testing using XUnit
+├── Transaction.API.sln # Visual Studio solution file
+├── README.md # Project documentation
+└── LICENSE.txt # MIT License
