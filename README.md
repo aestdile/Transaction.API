@@ -71,3 +71,7 @@ Unit tests are written using **XUnit** and located in the `Transaction.API.Unit.
 
 ```bash
 git clone https://github.com/aestdile/Transaction.API.git
+
+📄 License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project.
